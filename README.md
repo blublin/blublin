@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **blublin/blublin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,16 @@ Here are some ideas to get you started:
 # Ben Lublin
 ## From Audio Engineer to Software Engineer
 ![AudioEngineer](/imgs/audioEngineering.jpg)
+
+Life has a way of changing paths. Sometimes it's expected, sometimes it's a wonderfully journey full of surprises!
+
+After spending 4 years teaching and doing audio engineering, I realized that this just wasn't for me. I've spent time searching for what feels right to me.
+What I realized is that I just love being in front of a keyboard: creating, problem-solving, testing, struggling, reviewing, and otherwise testing my limits as what I'm able to do! I absolutely love to learn and find myself being able to do a little more than I could the day before.
+
+***
+
+###
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=blublin&show_icons=true&theme=gotham))](https://github.com/blublin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blublin&layout=compact)](https://github.com/blublin)
