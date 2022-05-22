@@ -30,7 +30,7 @@ What I realized is that I just love being in front of a keyboard: creating, prob
   - Express.js
   - React.js
   - Node.js
-
+  
 ### What's Next:
 
 - Java + Spring Framework
@@ -40,6 +40,7 @@ What I realized is that I just love being in front of a keyboard: creating, prob
 - Web Development
   - HTML 5
   - CSS
+    - Bootstrap
   - JavaScript
 
 - Python
