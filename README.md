@@ -25,6 +25,6 @@ What I realized is that I just love being in front of a keyboard: creating, prob
 
 ###
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=blublin&show_icons=true&theme=gotham))](https://github.com/blublin)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=blublin&show_icons=true&theme=gotham)](https://github.com/blublin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blublin&layout=compact)](https://github.com/blublin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blublin&layout=compact&theme=gotham)](https://github.com/blublin)
