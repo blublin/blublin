@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Ben Lublin
+## From Audio Engineer to Software Engineer
+![AudioEngineer](/imgs/audioEngineering.jpg)
