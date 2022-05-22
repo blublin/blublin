@@ -23,7 +23,29 @@ What I realized is that I just love being in front of a keyboard: creating, prob
 
 ***
 
-###
+### Currently:
+
+- Finishing MERN
+  - MongoDB + Mongoose
+  - Express.js
+  - React.js
+  - Node.js
+
+### What's Next:
+
+- Java + Spring Framework
+
+### Finished:
+
+- Web Development
+  - HTML 5
+  - CSS
+  - JavaScript
+
+- Python
+  - Flask
+  - OOP
+***
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=blublin&show_icons=true&theme=gotham)](https://github.com/blublin)
 
