@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ben Lublin
-## From Audio Engineer to Software Engineer
+## From Audio Engineer to AMAZON Software Engineer
 ![AudioEngineer](/imgs/audioEngineering.jpg)
 
 Life has a way of changing paths. Sometimes it's expected, sometimes it's a wonderfully journey full of surprises!
@@ -25,15 +25,12 @@ What I realized is that I just love being in front of a keyboard: creating, prob
 
 ### Currently:
 
-- Finishing MERN
-  - MongoDB + Mongoose
-  - Express.js
-  - React.js
-  - Node.js
-  
+- Maintaining and improving Java skillset
+
+
 ### What's Next:
 
-- Java + Spring Framework
+- Amazon Honeycode!!
 
 ### Finished:
 
@@ -46,6 +43,31 @@ What I realized is that I just love being in front of a keyboard: creating, prob
 - Python
   - Flask
   - OOP
+
+- MERN
+  - Mongoose
+  - Express.js
+  - React.js
+  - Node.js
+
+- Java
+  -Core
+    - OOP / Classes / Interfaces
+    - Data Structures
+  - Advanced
+    - Dependency Injection
+  - Tools
+    - Maven
+  - Frameworks
+    - Spring
+    - Spring Boot
+  - ORM
+    - JPA
+    - Hibernate
+
+- Databases
+  - MySQL
+  - MongoDB
 ***
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=blublin&show_icons=true&theme=gotham)](https://github.com/blublin)
